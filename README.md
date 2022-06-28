@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KishorRShetty
-- 👀 I’m a web developer .
-- 🌱 stack: MEAN AND MERN.
+- 👀 
+- 🌱 
 - 💞️ I’m looking to collaborate on web technologies.
 - 📫 How to reach me kishhlinuxshetty@gmail.com
 
